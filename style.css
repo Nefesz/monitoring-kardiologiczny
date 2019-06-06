@@ -1,0 +1,17 @@
+h1, p {
+  font-family: Lato;
+}
+
+.ant-input {
+  width: 400px;
+  margin-right: 10px;
+}
+
+.ant-checkbox {
+  margin-right: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+}
